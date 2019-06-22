@@ -16,11 +16,11 @@ $ cp zsh-theme-grs/grs.zsh-theme /home/your-user/.oh-my-zsh/themes/
 ```
 **Changing the GRS theme**
 ```
-$ vim .zshrc
+$ vim ~.zshrc
 ZSH_THEME="grs"
 ```
 **Applying the theme**
 ```
-$ source .zshrc
+$ source ~.zshrc
 ```
 
