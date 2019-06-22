@@ -1,4 +1,6 @@
 # GRS Theme for the ZSH
+![alt text](https://github.com/gersontpc/zsh-theme-grs/blob/master/grs_theme_preview.png?raw=true)
+
 
 To install zsh follow the steps on the official website: https://ohmyz.sh/
 
